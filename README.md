@@ -3,7 +3,7 @@
 To Run the project, follow these steps:
 Node min version: 14
 
-#To run the project
+# To run the project
 Install packages: *Yarn*
 
 On IOS
