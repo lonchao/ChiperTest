@@ -6,14 +6,14 @@ Node min version: 14
 # To run the project
 Install packages: *Yarn*
 
-On IOS
+# On IOS
 Install pods
 cd ios && pod install
 to run: *yarn ios* 
 
-on dandroid: 
+# on dandroid: 
 *yarn android* 
 
-*Using Xcode*
+# *Using Xcode*
 open file /ios/ChiperTest.xcworkspace
 press Run button
